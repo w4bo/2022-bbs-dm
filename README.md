@@ -31,7 +31,7 @@ Please fill out this simple form (it takes ~3 minutes): [https://forms.gle/74wPh
 
 ## Software
 
-- The lectures are manly based on Colab notebook, you simply need a Google account (no additional software should be installed for Python and its ecosystem).
+- The lectures are manly based on Colab notebooks, you simply need a Google account (no additional software should be installed for Python and its ecosystem).
 - The lecture on Day 2 requires Tableau Desktop to be installed.
     - Download [here](https://www.tableau.com/products/desktop/download?signin=academic); installation procedure is trivial.
     - A free 1-year student license can be requested [here](https://www.tableau.com/it-it/academic/students#form); alternatively, a free 1-year license will be given during the course.
