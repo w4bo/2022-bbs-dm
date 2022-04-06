@@ -25,10 +25,14 @@ This course provides an introduction to the base principles and methods of Data 
 | Day 2 (20/04/2022; 11:30-18:30) | Enrico Gallinucci | Hands-on Spark and OLAP |
 | Day 3 (22/04/2022; 14:30-17:30) | MF + EG | Exam, follow-up investigation and discussion |
 
+## Collecting some background
+
+Please fill out this simple form (it takes ~3 minutes): [https://forms.gle/74wPhA36ARq1FsYAA](https://forms.gle/74wPhA36ARq1FsYAA)
+
 ## Software
 
-The lecture on Day 2 requires Tableau Desktop to be installed.
-
-- Download [here](https://www.tableau.com/products/desktop/download?signin=academic); installation procedure is trivial.
-- A free 1-year student license can be requested [here](https://www.tableau.com/it-it/academic/students#form); alternatively, a free 1-year license will be given during the course.
-- Material to be used with Tableau is in the ```tableau``` folder of this repo.
+- The lectures are manly based on Colab notebook, you simply need a Google account (no additional software should be installed for Python and its ecosystem).
+- The lecture on Day 2 requires Tableau Desktop to be installed.
+    - Download [here](https://www.tableau.com/products/desktop/download?signin=academic); installation procedure is trivial.
+    - A free 1-year student license can be requested [here](https://www.tableau.com/it-it/academic/students#form); alternatively, a free 1-year license will be given during the course.
+    - Material to be used with Tableau is in the ```tableau``` folder of this repo.
