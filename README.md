@@ -23,7 +23,7 @@ This course provides an introduction to the base principles and methods of Data 
 | -    | -    | -    |
 | Day 1 (19/04/2022; 09:30-16:30) | Matteo Francia | Hands-on data mining and machine learning |
 | Day 2 (20/04/2022; 11:30-18:30) | Enrico Gallinucci | Hands-on Spark and OLAP |
-| Day 3 (22/04/2022; 14:30-17:30) | MF + EG | Exam, follow-up investigation and discussion |
+| Day 3 (22/04/2022; 14:30-17:30) | MF + EG | Evaluation, follow-up investigation and discussion |
 
 ## Collecting some background
 
