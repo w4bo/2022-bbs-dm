@@ -16,7 +16,8 @@ jobs:
           wget -q https://archive.apache.org/dist/spark/spark-3.2.1/spark-3.2.1-bin-hadoop2.7.tgz
           tar xf spark-3.2.1-bin-hadoop2.7.tgz
           pip install -r requirements.txt
-          pip install -q findspark
+          pip install findspark
+          pip install pyspark
           pip install jupyter
           for f in *.ipynb; 
             do echo "Processing $f file...";
