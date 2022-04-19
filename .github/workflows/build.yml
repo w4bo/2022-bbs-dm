@@ -17,9 +17,9 @@ jobs:
           
           sudo mkdir -p /content
           tar xf spark-3.2.1-bin-hadoop2.7.tgz
-          sudo mv spark-3.2.1-bin-hadoop2.7.tgz /content
-          
-          pip install -r requirements.txt
+          sudo mv spark-3.2.1-bin-hadoop2.7 /content
+
+          pip install -r requirements.txt > /dev/null
           for f in *.ipynb; 
             do echo "Processing $f file...";
             jupyter nbconvert --execute --to notebook --inplace $f
